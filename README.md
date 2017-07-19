@@ -4,6 +4,9 @@
 - https://www.tiobe.com/tiobe-index/
 - http://wiki.c2.com/
 
+### Editors
+- https://github.com/neovim/neovim
+
 ### Management
 - [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
 
@@ -25,3 +28,4 @@
 
 ### Servers
 - https://caddyserver.com/
+- https://ngrok.com/
