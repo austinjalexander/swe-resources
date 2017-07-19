@@ -1,5 +1,9 @@
 # swe-resources
 
+### Community
+- https://www.tiobe.com/tiobe-index/
+- http://wiki.c2.com/
+
 ### Management
 - [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
 
@@ -15,6 +19,9 @@
 ### Distributed Systems Tracing
 - https://uber.github.io/jaeger/
 - http://zipkin.io/
+
+### Gaming
+- https://getchip.com/pages/pocketchip
 
 ### Servers
 - https://caddyserver.com/
