@@ -13,6 +13,9 @@
 ### Microservices
 - https://www.nginx.com/blog/introduction-to-microservices/
 
+### R&D
+- http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/38149.pdf
+
 ### RFC Examples
 - https://github.com/rust-lang/rfcs
 - https://tools.ietf.org/html/rfc2549
