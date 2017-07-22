@@ -22,6 +22,7 @@
 ### Distributed Systems Tracing
 - https://uber.github.io/jaeger/
 - http://zipkin.io/
+- http://opentracing.io/
 
 ### Gaming
 - https://getchip.com/pages/pocketchip
