@@ -6,6 +6,7 @@
 
 ### Editors
 - https://github.com/neovim/neovim
+- http://vimcasts.org/
 
 ### Management
 - [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
