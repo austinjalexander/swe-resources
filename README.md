@@ -7,6 +7,9 @@
 ### Management
 - [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
 
+### Methodology
+- https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software
+
 ### Microservices
 - https://www.nginx.com/blog/introduction-to-microservices/
 - http://microservices.io/index.html
