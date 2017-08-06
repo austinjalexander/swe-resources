@@ -4,10 +4,6 @@
 - https://www.tiobe.com/tiobe-index/
 - http://wiki.c2.com/
 
-### Editors
-- https://github.com/neovim/neovim
-- http://vimcasts.org/
-
 ### Management
 - [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
 
@@ -32,6 +28,10 @@
 - https://uber.github.io/jaeger/
 - http://zipkin.io/
 - http://opentracing.io/
+
+### Editors
+- https://github.com/neovim/neovim
+- http://vimcasts.org/
 
 ### Gaming
 - https://getchip.com/pages/pocketchip
