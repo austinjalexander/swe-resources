@@ -47,3 +47,6 @@
 
 ### Stacks
 - https://learnbchs.org/
+
+### System Design
+- https://github.com/donnemartin/system-design-primer
