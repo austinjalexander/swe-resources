@@ -50,3 +50,8 @@
 
 ### System Design
 - https://github.com/donnemartin/system-design-primer
+
+### Testing
+#### Bash
+- https://github.com/lehmannro/assert.sh
+- https://github.com/sstephenson/bats
