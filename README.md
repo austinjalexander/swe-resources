@@ -41,6 +41,9 @@
 ### Gaming
 - https://getchip.com/pages/pocketchip
 
+### Messaging
+- http://nats.io/
+
 ### Servers
 - https://caddyserver.com/
 - https://ngrok.com/
