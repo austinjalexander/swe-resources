@@ -41,6 +41,9 @@
 ### Gaming
 - https://getchip.com/pages/pocketchip
 
+### Legal
+- https://www.clerky.com/
+
 ### Messaging
 - http://nats.io/
 
