@@ -16,6 +16,9 @@
 - http://microservices.io/index.html
 - https://github.com/mfornos/awesome-microservices
 
+### Node
+- [Ryan Dahl: Original Node JS Presentation](https://www.youtube.com/watch?v=EeYvFl7li9E)
+
 ### R&D
 - http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/38149.pdf
 - http://paperswelove.org/
