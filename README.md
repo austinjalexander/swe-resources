@@ -16,9 +16,6 @@
 - http://microservices.io/index.html
 - https://github.com/mfornos/awesome-microservices
 
-### Node
-- [Ryan Dahl: Original Node JS Presentation](https://www.youtube.com/watch?v=EeYvFl7li9E)
-
 ### R&D
 - http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/38149.pdf
 - http://paperswelove.org/
@@ -26,6 +23,10 @@
 ### RFC Examples
 - https://github.com/rust-lang/rfcs
 - https://tools.ietf.org/html/rfc2549
+
+### Runtimes
+#### Node
+- [Ryan Dahl: Original Node JS Presentation](https://www.youtube.com/watch?v=EeYvFl7li9E)
 
 ### Security
 - https://www.owasp.org/index.php/Main_Page
