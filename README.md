@@ -70,3 +70,6 @@
 - https://github.com/sstephenson/bats
 #### SQL
 - https://github.com/jarulraj/sqlcheck
+
+### Visualization
+- http://www.graphviz.org/
