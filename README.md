@@ -34,6 +34,9 @@
 ### Site-Reliability Engineering
 - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre
 
+### Websockets
+- https://devcenter.heroku.com/articles/websocket-security
+
 ## To Investigate
 
 ### Distributed Systems Tracing
