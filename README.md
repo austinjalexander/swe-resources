@@ -13,6 +13,7 @@
 ### Methodology
 - https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software
 - http://www.laputan.org/mud/
+- http://www.agilenutshell.com/
 
 ### Microservices
 - https://www.nginx.com/blog/introduction-to-microservices/
