@@ -9,6 +9,7 @@
 
 ### Management
 - [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
+- http://www.paulgraham.com/makersschedule.html
 
 ### Methodology
 - https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software
