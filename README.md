@@ -23,6 +23,7 @@
 ### R&D
 - http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/38149.pdf
 - http://paperswelove.org/
+- https://research.fb.com/publications/
 
 ### RFC Examples
 - https://github.com/rust-lang/rfcs
