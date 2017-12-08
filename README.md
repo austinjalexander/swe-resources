@@ -4,6 +4,9 @@
 - https://www.tiobe.com/tiobe-index/
 - http://wiki.c2.com/
 
+### gRPC
+- https://www.slideshare.net/VarunTalwar4/grpc-design-and-implementation
+
 ### Licenses
 - https://choosealicense.com/
 
