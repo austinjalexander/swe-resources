@@ -25,7 +25,7 @@
 - https://github.com/mfornos/awesome-microservices
 
 ### Performance
-- https://jsperf.com/ [example](https://jsperf.com/getelementbyid-vs-queryselector)
+- https://jsperf.com/ ([example](https://jsperf.com/getelementbyid-vs-queryselector))
 
 ### R&D
 - http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/38149.pdf
