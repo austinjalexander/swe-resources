@@ -4,6 +4,11 @@
 - https://www.tiobe.com/tiobe-index/
 - http://wiki.c2.com/
 
+### Development
+#### Python
+- https://www.fullstackpython.com/
+- http://pythontesting.net/
+
 ### gRPC
 - https://www.slideshare.net/VarunTalwar4/grpc-design-and-implementation
 
