@@ -60,6 +60,9 @@
 
 ## To Investigate
 
+### Dependencies
+- https://libraries.io/
+
 ### Distributed Systems Tracing
 - https://uber.github.io/jaeger/
 - http://zipkin.io/
