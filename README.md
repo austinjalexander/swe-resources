@@ -29,6 +29,10 @@
 - http://microservices.io/index.html
 - https://github.com/mfornos/awesome-microservices
 
+### Open Source
+- https://www.contributor-covenant.org/
+- https://css-tricks.com/open-source-etiquette-guidebook/
+
 ### Performance
 - https://jsperf.com/ ([example](https://jsperf.com/getelementbyid-vs-queryselector))
 
