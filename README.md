@@ -12,6 +12,9 @@
 ### gRPC
 - https://www.slideshare.net/VarunTalwar4/grpc-design-and-implementation
 
+### Interviewing
+- https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
+
 ### Licenses
 - https://choosealicense.com/
 
