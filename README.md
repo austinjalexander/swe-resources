@@ -96,6 +96,9 @@
 - https://caddyserver.com/
 - https://ngrok.com/
 
+### Storage
+- https://ipfs.io/
+
 ### Stacks
 - https://learnbchs.org/
 
