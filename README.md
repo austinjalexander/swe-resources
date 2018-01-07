@@ -89,6 +89,9 @@
 ### Foundations
 - https://softwarefoundations.cis.upenn.edu/current/index.html
 
+### Formal Verification
+- https://softwarefoundations.cis.upenn.edu/current/index.html
+
 ### Gaming
 - https://getchip.com/pages/pocketchip
 
