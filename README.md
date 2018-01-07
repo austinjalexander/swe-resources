@@ -12,6 +12,10 @@
 ### gRPC
 - https://www.slideshare.net/VarunTalwar4/grpc-design-and-implementation
 
+### History
+- https://steveblank.com/secret-history/
+- https://medium.com/startup-grind/steve-blanks-guide-to-the-real-silicon-valley-37278610026c#.acrokj9ca
+
 ### Interviewing
 - https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
 
