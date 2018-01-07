@@ -86,6 +86,9 @@
 - https://github.com/neovim/neovim
 - http://vimcasts.org/
 
+### Foundations
+- https://softwarefoundations.cis.upenn.edu/current/index.html
+
 ### Gaming
 - https://getchip.com/pages/pocketchip
 
