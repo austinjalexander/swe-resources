@@ -74,7 +74,10 @@
 ### Dependencies
 - https://libraries.io/
 
-### Distributed Systems Tracing
+### Distributed Systems
+- https://www.envoyproxy.io/
+- https://istio.io/
+#### Tracing
 - https://uber.github.io/jaeger/
 - http://zipkin.io/
 - http://opentracing.io/
