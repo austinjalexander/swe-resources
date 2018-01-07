@@ -91,6 +91,8 @@
 
 ### Formal Verification
 - https://softwarefoundations.cis.upenn.edu/current/index.html
+- http://why3.lri.fr/
+- https://learntla.com/introduction/
 
 ### Gaming
 - https://getchip.com/pages/pocketchip
