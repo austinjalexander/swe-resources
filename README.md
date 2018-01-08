@@ -59,6 +59,7 @@
 ### Security
 - https://www.owasp.org/index.php/Main_Page
 - https://www.schneier.com/
+- https://www.ted.com/talks/bruce_schneier#t-981413
 
 ### Site-Reliability Engineering
 - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre
