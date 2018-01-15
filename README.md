@@ -83,6 +83,9 @@
 
 ## To Investigate
 
+### Databases
+- https://masteringpostgresql.com/
+
 ### Dependencies
 - https://libraries.io/
 
