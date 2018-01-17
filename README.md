@@ -1,5 +1,8 @@
 # swe-resources
 
+### Cloud
+- https://github.com/cncf/landscape
+
 ### Community
 - https://www.tiobe.com/tiobe-index/
 - http://wiki.c2.com/
