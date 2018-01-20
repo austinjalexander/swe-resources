@@ -56,6 +56,7 @@
 - http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/38149.pdf
 - http://paperswelove.org/
 - https://research.fb.com/publications/
+- https://research.fb.com/research-areas/
 
 ### RFC Examples
 - https://github.com/rust-lang/rfcs
