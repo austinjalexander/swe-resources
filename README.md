@@ -45,6 +45,9 @@
 - http://microservices.io/index.html
 - https://github.com/mfornos/awesome-microservices
 
+### OCR
+- https://github.com/tesseract-ocr/tesseract
+
 ### Open Source
 - https://www.contributor-covenant.org/
 - https://css-tricks.com/open-source-etiquette-guidebook/
