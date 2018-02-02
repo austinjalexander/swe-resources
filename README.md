@@ -10,6 +10,9 @@
 ### CSS
 - http://getbem.com/
 
+### Databases
+- http://tatiyants.com/pev/#/plans/new
+
 ### Development
 #### Python
 - https://www.fullstackpython.com/
