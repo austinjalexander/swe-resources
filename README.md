@@ -13,6 +13,9 @@
 ### Databases
 - http://tatiyants.com/pev/#/plans/new
 
+### Debugging
+- https://github.com/devtools-html/debugger.html
+
 ### Development
 #### Python
 - https://www.fullstackpython.com/
