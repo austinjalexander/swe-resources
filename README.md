@@ -91,6 +91,9 @@
 #### History
 - https://nickjanetakis.com/blog/run-the-first-edition-of-unix-1972-with-docker
 
+### Vim
+- https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
+
 ### Websockets
 - https://devcenter.heroku.com/articles/websocket-security
 
