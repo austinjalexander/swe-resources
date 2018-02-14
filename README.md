@@ -27,6 +27,8 @@
 ### History
 - https://steveblank.com/secret-history/
 - https://medium.com/startup-grind/steve-blanks-guide-to-the-real-silicon-valley-37278610026c#.acrokj9ca
+#### Internet
+- https://www.rand.org/about/history/baran.html
 
 ### Interviewing
 - https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
