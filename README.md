@@ -90,6 +90,9 @@
 #### CSS
 - https://css-tricks.com/
 
+### Unicode
+- https://nedbatchelder.com/text/unipain.html
+
 ### Unix
 #### History
 - https://nickjanetakis.com/blog/run-the-first-edition-of-unix-1972-with-docker
