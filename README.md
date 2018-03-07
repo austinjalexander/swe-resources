@@ -17,7 +17,7 @@
 - https://github.com/devtools-html/debugger.html
 
 ### Development
-### JavaScript
+#### JavaScript
 - https://prettier.io/
 #### Python
 - https://www.fullstackpython.com/
