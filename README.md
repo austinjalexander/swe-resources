@@ -22,6 +22,8 @@
 #### Python
 - https://www.fullstackpython.com/
 - http://pythontesting.net/
+##### Testing
+- https://hypothesis.works/
 
 ### gRPC
 - https://www.slideshare.net/VarunTalwar4/grpc-design-and-implementation
