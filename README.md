@@ -17,6 +17,7 @@
 - https://github.com/devtools-html/debugger.html
 
 ### Development
+- https://github.com/LeCoupa/awesome-cheatsheets
 #### Bash
 - https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
 #### JavaScript
