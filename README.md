@@ -17,6 +17,8 @@
 - https://github.com/devtools-html/debugger.html
 
 ### Development
+#### Bash
+- https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
 #### JavaScript
 - https://prettier.io/
 #### Python
