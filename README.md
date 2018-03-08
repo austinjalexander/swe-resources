@@ -28,6 +28,9 @@
 ##### Testing
 - https://hypothesis.works/
 
+### Git
+- `git branch | grep -v 'master' | xargs git branch -D`
+
 ### gRPC
 - https://www.slideshare.net/VarunTalwar4/grpc-design-and-implementation
 
