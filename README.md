@@ -147,6 +147,9 @@
 ### Gaming
 - https://getchip.com/pages/pocketchip
 
+### Learning
+- https://github.com/learnbyexample
+
 ### Legal
 - https://www.clerky.com/
 
