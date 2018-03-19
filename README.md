@@ -120,6 +120,9 @@
 
 ## To Investigate
 
+### Algorithms
+- https://idea-instructions.com/
+
 ### Databases
 - https://masteringpostgresql.com/
 
