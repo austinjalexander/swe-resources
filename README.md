@@ -163,6 +163,7 @@
 
 ### Security
 - https://chronicle.security/
+- https://www.sqreen.io/checklists/saas-cto-security-checklist
 
 ### Servers
 - https://caddyserver.com/
