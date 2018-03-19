@@ -147,6 +147,9 @@
 ### Gaming
 - https://getchip.com/pages/pocketchip
 
+### Journals
+- http://programming-journal.org/
+
 ### Learning
 - https://github.com/learnbyexample
 
