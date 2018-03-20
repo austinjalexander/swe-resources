@@ -181,8 +181,9 @@
 ### Stacks
 - https://learnbchs.org/
 
-### System Design
+### System Architecture/Design
 - https://github.com/donnemartin/system-design-primer
+- https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
 
 ### Testing
 #### Bash
