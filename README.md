@@ -123,6 +123,9 @@
 ### Algorithms
 - https://idea-instructions.com/
 
+### Code Management
+- https://bitsrc.io/
+
 ### Databases
 - https://masteringpostgresql.com/
 
