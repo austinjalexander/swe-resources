@@ -132,6 +132,9 @@
 ### Dependencies
 - https://libraries.io/
 
+### Development
+- https://www.webcomponents.org/introduction
+
 ### Distributed Systems
 - https://www.envoyproxy.io/
 - https://istio.io/
