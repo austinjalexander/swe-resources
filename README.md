@@ -149,6 +149,7 @@
 
 ### Fonts
 - https://github.com/ryanoasis/nerd-fonts
+- https://github.com/FortAwesome/Font-Awesome
 
 ### Foundations
 - https://softwarefoundations.cis.upenn.edu/current/index.html
@@ -163,6 +164,10 @@
 
 ### Hardware/Software Interface
 - https://github.com/pervognsen/bitwise
+
+### Icons
+- https://github.com/primer/octicons
+- http://vorillaz.github.io/devicons/#/main
 
 ### Journals
 - http://programming-journal.org/
