@@ -158,6 +158,9 @@
 ### Gaming
 - https://getchip.com/pages/pocketchip
 
+### Hardware/Software Interface
+- https://github.com/pervognsen/bitwise
+
 ### Journals
 - http://programming-journal.org/
 
