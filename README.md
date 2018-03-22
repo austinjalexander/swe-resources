@@ -147,6 +147,9 @@
 - https://github.com/neovim/neovim
 - http://vimcasts.org/
 
+### Fonts
+- https://github.com/ryanoasis/nerd-fonts
+
 ### Foundations
 - https://softwarefoundations.cis.upenn.edu/current/index.html
 
