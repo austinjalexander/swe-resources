@@ -29,6 +29,9 @@
 ##### Testing
 - https://hypothesis.works/
 
+### DevOps
+- http://www.opsschool.org/en/latest/
+
 ### Git
 - `git branch | grep -v 'master' | xargs git branch -D`
 
