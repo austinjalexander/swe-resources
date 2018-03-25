@@ -1,6 +1,7 @@
 # swe-resources
 
 ### Cloud
+- https://www.cncf.io/
 - https://github.com/cncf/landscape
 
 ### Community
@@ -180,6 +181,10 @@
 
 ### Messaging
 - http://nats.io/
+
+### Performance
+#### Web
+- https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index
 
 ### Security
 - https://chronicle.security/
