@@ -23,6 +23,7 @@
 - https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
 #### JavaScript
 - https://prettier.io/
+- https://google.github.io/styleguide/jsguide.html
 #### Python
 - https://www.fullstackpython.com/
 - http://pythontesting.net/
