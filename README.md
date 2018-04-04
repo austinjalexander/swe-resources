@@ -88,6 +88,9 @@
 - https://research.fb.com/publications/
 - https://research.fb.com/research-areas/
 
+### REST
+- http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
+
 ### RFC Examples
 - https://github.com/rust-lang/rfcs
 - https://tools.ietf.org/html/rfc2549
