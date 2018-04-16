@@ -33,6 +33,9 @@
 ### DevOps
 - http://www.opsschool.org/en/latest/
 
+### Documentation
+- https://docusaurus.io/
+
 ### Git
 - `git branch | grep -v 'master' | xargs git branch -D`
 
