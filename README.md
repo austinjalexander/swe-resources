@@ -21,9 +21,16 @@
 - https://github.com/LeCoupa/awesome-cheatsheets
 #### Bash
 - https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
+
 #### JavaScript
 - https://prettier.io/
 - https://google.github.io/styleguide/jsguide.html
+- https://unpkg.com
+##### Flow
+- https://flow.org/
+##### React
+- https://reacttraining.com/react-router
+
 #### Python
 - https://www.fullstackpython.com/
 - http://pythontesting.net/
