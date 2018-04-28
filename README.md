@@ -62,6 +62,9 @@
 ### Keyboards
 - http://www.wasdkeyboards.com/
 
+### Kubernetes
+- https://github.com/freach/kubernetes-security-best-practice
+
 ### Licenses
 - https://choosealicense.com/
 
@@ -85,6 +88,9 @@
 ### Open Source
 - https://www.contributor-covenant.org/
 - https://css-tricks.com/open-source-etiquette-guidebook/
+
+### Podcasts
+- https://github.com/rShetty/awesome-podcasts
 
 ### Performance
 - https://jsperf.com/ ([example](https://jsperf.com/getelementbyid-vs-queryselector))
