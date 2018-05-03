@@ -37,6 +37,9 @@
 ##### Testing
 - https://hypothesis.works/
 
+#### Web Assembly
+- https://webassembly.studio/
+
 ### DevOps
 - http://www.opsschool.org/en/latest/
 
