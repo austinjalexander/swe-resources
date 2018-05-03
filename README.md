@@ -46,6 +46,17 @@
 ### Documentation
 - https://docusaurus.io/
 
+### Drawing
+- https://tenonedesign.com/inklet.php
+
+### Flowcharts
+- https://mermaidjs.github.io/
+- https://www.websequencediagrams.com/
+- https://www.gliffy.com/
+- https://www.lucidchart.com/
+- https://www.draw.io/
+- https://www.omnigroup.com/omnigraffle/
+
 ### Git
 - `git branch | grep -v 'master' | xargs git branch -D`
 
