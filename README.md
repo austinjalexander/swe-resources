@@ -137,6 +137,9 @@
 ### Site-Reliability Engineering
 - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre
 
+### Testing
+- https://8thlight.com/blog/uncle-bob/2014/05/14/TheLittleMocker.html
+
 ### UI/UX
 #### CSS
 - https://css-tricks.com/
