@@ -8,6 +8,10 @@
 - https://www.tiobe.com/tiobe-index/
 - http://wiki.c2.com/
 
+### Content Generation
+- https://jdenticon.com/
+- https://github.com/stewartlord/identicon.js
+
 ### CSS
 - http://getbem.com/
 
