@@ -85,6 +85,9 @@
 ### Kubernetes
 - https://github.com/freach/kubernetes-security-best-practice
 
+### Learning
+- http://aosabook.org/en/index.html
+
 ### Licenses
 - https://choosealicense.com/
 
