@@ -56,6 +56,7 @@
 
 ### Flowcharts
 - https://mermaidjs.github.io/
+- https://github.com/knsv/mermaid
 - https://www.websequencediagrams.com/
 - https://www.gliffy.com/
 - https://www.lucidchart.com/
