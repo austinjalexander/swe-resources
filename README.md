@@ -14,6 +14,7 @@
 
 ### CSS
 - http://getbem.com/
+- https://css-blocks.com
 
 ### Databases
 - http://tatiyants.com/pev/#/plans/new
