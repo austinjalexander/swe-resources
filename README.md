@@ -112,6 +112,9 @@
 - https://www.contributor-covenant.org/
 - https://css-tricks.com/open-source-etiquette-guidebook/
 
+### PDFs
+- https://github.com/RelaxedJS/ReLaXed
+
 ### Podcasts
 - https://github.com/rShetty/awesome-podcasts
 
