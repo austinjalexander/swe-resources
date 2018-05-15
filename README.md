@@ -87,6 +87,7 @@
 
 ### Learning
 - http://aosabook.org/en/index.html
+- https://github.com/danistefanovic/build-your-own-x
 
 ### Licenses
 - https://choosealicense.com/
