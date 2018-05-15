@@ -63,6 +63,13 @@
 - https://www.draw.io/
 - https://www.omnigroup.com/omnigraffle/
 
+### Frontend Development
+- https://micro-frontends.org/
+- https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16
+- https://www.thoughtworks.com/radar/techniques/micro-frontends
+- https://github.com/CanopyTax/single-spa
+- https://single-spa.surge.sh/
+
 ### Git
 - `git branch | grep -v 'master' | xargs git branch -D`
 
