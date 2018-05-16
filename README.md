@@ -69,6 +69,8 @@
 - https://www.thoughtworks.com/radar/techniques/micro-frontends
 - https://github.com/CanopyTax/single-spa
 - https://single-spa.surge.sh/
+#### Static-Site Generation
+- https://www.gatsbyjs.org/
 
 ### Git
 - `git branch | grep -v 'master' | xargs git branch -D`
