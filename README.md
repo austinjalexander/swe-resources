@@ -22,6 +22,10 @@
 ### Debugging
 - https://github.com/devtools-html/debugger.html
 
+### Design Patterns
+- https://sourcemaking.com/
+- https://refactoring.guru/design-patterns
+
 ### Development
 - https://github.com/LeCoupa/awesome-cheatsheets
 #### Bash
@@ -143,6 +147,9 @@
 - http://paperswelove.org/
 - https://research.fb.com/publications/
 - https://research.fb.com/research-areas/
+
+### Refactoring
+- https://refactoring.guru/refactoring
 
 ### REST
 - http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
