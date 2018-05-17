@@ -83,6 +83,8 @@
 - https://medium.com/startup-grind/steve-blanks-guide-to-the-real-silicon-valley-37278610026c#.acrokj9ca
 #### Internet
 - https://www.rand.org/about/history/baran.html
+#### Programming Languages
+- https://www.hillelwayne.com/post/equals-as-assignment/
 #### Udacity
 - https://www.wired.com/1994/04/general-magic/
 
