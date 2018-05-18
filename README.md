@@ -149,6 +149,7 @@
 - https://research.fb.com/research-areas/
 
 ### Refactoring
+- https://refactoring.com/
 - https://refactoring.guru/refactoring
 
 ### REST
