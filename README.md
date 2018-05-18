@@ -15,6 +15,11 @@
 ### CSS
 - http://getbem.com/
 - https://css-blocks.com
+#### Fonts
+- https://css-tricks.com/hey-hey-font-display/
+- https://www.zachleat.com/web/comprehensive-webfonts/
+#### Grid
+- https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/
 
 ### Databases
 - http://tatiyants.com/pev/#/plans/new
