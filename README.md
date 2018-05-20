@@ -8,6 +8,9 @@
 - https://www.tiobe.com/tiobe-index/
 - http://wiki.c2.com/
 
+### Consensus Protocols
+- https://raft.github.io/
+
 ### Content Generation
 - https://jdenticon.com/
 - https://github.com/stewartlord/identicon.js
