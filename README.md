@@ -129,6 +129,12 @@
 - http://microservices.io/index.html
 - https://github.com/mfornos/awesome-microservices
 
+### Monitoring
+#### Postgres
+- https://www.datadoghq.com/blog/postgresql-monitoring
+- https://www.datadoghq.com/blog/postgresql-rds-monitoring-datadog
+- https://www.datadoghq.com/blog/postgresql-vacuum-monitoring
+
 ### OCR
 - https://github.com/tesseract-ocr/tesseract
 
