@@ -86,6 +86,7 @@
 - https://www.thoughtworks.com/radar/techniques/micro-frontends
 - https://github.com/CanopyTax/single-spa
 - https://single-spa.surge.sh/
+- https://developers.google.com/web/fundamentals/
 #### Progressive Web Apps
 - https://developers.google.com/web/tools/lighthouse/
 #### Static-Site Generation
