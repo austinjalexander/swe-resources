@@ -176,7 +176,11 @@
 - http://www.sqreen.io/checklists/devops-security-checklist.html
 
 ### Site-Reliability Engineering
+- https://landing.google.com/sre/book.html
 - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre
+
+### SSL/TLS
+- https://letsencrypt.org/
 
 ### Testing
 - https://8thlight.com/blog/uncle-bob/2014/05/14/TheLittleMocker.html
