@@ -44,6 +44,7 @@
 - https://flow.org/
 ##### React
 - https://reacttraining.com/react-router
+- https://github.com/reactjs/rfcs
 
 #### Python
 - https://www.fullstackpython.com/
@@ -51,8 +52,8 @@
 ##### Testing
 - https://hypothesis.works/
 
-#### Web Assembly
-- https://webassembly.studio/
+#### Rust
+- https://github.com/rust-lang/rfcs
 
 ### DevOps
 - http://www.opsschool.org/en/latest/
