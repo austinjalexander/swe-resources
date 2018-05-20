@@ -200,6 +200,8 @@
 ### Websockets
 - https://devcenter.heroku.com/articles/websocket-security
 
+---
+
 ## To Investigate
 
 ### Algorithms
@@ -294,6 +296,9 @@
 - https://github.com/airbnb/enzyme
 #### SQL
 - https://github.com/jarulraj/sqlcheck
+
+### Video
+- https://snr.stanford.edu/salsify/
 
 ### Visualization
 - http://www.graphviz.org/
