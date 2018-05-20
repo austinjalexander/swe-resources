@@ -173,6 +173,7 @@
 - https://www.schneier.com/
 - https://www.ted.com/talks/bruce_schneier#t-981413
 - https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf
+- http://www.sqreen.io/checklists/devops-security-checklist.html
 
 ### Site-Reliability Engineering
 - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre
