@@ -43,6 +43,10 @@
 - https://prettier.io/
 - https://google.github.io/styleguide/jsguide.html
 - https://unpkg.com
+- https://leanpub.com/understandinges6/read#leanpub-auto-introduction
+- http://exploringjs.com/es6/index.html#toc_ch_modules
+- https://babeljs.io/learn-es2015/
+- https://www.promisejs.org/
 ##### Flow
 - https://flow.org/
 ##### React
