@@ -64,6 +64,8 @@
 - https://www.omnigroup.com/omnigraffle/
 
 ### Frontend Development
+- https://resilientwebdesign.com/
+#### Micro FEs
 - https://micro-frontends.org/
 - https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16
 - https://www.thoughtworks.com/radar/techniques/micro-frontends
@@ -164,6 +166,7 @@
 - https://8thlight.com/blog/uncle-bob/2014/05/14/TheLittleMocker.html
 
 ### UI/UX
+- https://custom-elements-everywhere.com/
 #### CSS
 - https://css-tricks.com/
 #### React
