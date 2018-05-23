@@ -100,6 +100,9 @@
 #### Web
 - https://developers.google.com/web/fundamentals/
 
+#### Functional Programming
+- https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
+
 ### Git
 - `git branch | grep -v 'master' | xargs git branch -D`
 
