@@ -84,6 +84,10 @@
 
 ### Frontend Development
 - https://resilientwebdesign.com/
+### Fonts
+- https://fonts.google.com/
+#### Icons
+- https://material.io/tools/icons/?style=baseline
 #### Micro FEs
 - https://micro-frontends.org/
 - https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16
