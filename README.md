@@ -66,6 +66,7 @@
 - https://github.com/rust-lang/rfcs
 
 ### DevOps
+- https://www.katacoda.com/
 - http://www.opsschool.org/en/latest/
 
 ### Documentation
