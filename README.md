@@ -3,6 +3,7 @@
 ### Cloud
 - https://www.cncf.io/
 - https://github.com/cncf/landscape
+- https://www.openstack.org/
 
 ### Community
 - https://www.tiobe.com/tiobe-index/
