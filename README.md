@@ -229,6 +229,9 @@
 ### Testing
 - https://8thlight.com/blog/uncle-bob/2014/05/14/TheLittleMocker.html
 
+### Time
+- https://zachholman.com/talk/utc-is-enough-for-everyone-right
+
 ### UI/UX
 - https://custom-elements-everywhere.com/
 #### CSS
