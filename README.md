@@ -152,6 +152,9 @@
 ### Licenses
 - https://choosealicense.com/
 
+### Machine Learning
+- https://www.wandb.com/
+
 ### Management
 - [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
 - http://www.paulgraham.com/makersschedule.html
