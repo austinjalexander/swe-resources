@@ -141,6 +141,16 @@
 
 ### Keyboards
 - http://www.wasdkeyboards.com/
+#### Mac Mapping (for brightness and volume keys)
+`hidutil list` (for ProductID and VendorID)
+`hidutil property --matching '{"ProductID":0x269, "VendorID":0x4d9}' --get 'UserKeyMapping'`
+`hidutil property --matching '{"ProductID":0x269, "VendorID":0x4d9}' --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0x70000003A,"HIDKeyboardModifierMappingDst":0xC00000070},{"HIDKeyboardModifierMappingSrc":0x70000003B,"HIDKeyboardModifierMappingDst":0xC0000006F},{"HIDKeyboardModifierMappingSrc":0x700000043,"HIDKeyboardModifierMappingDst":0xC000000E2},{"HIDKeyboardModifierMappingSrc":0x700000044,"HIDKeyboardModifierMappingDst":0xC000000EA},{"HIDKeyboardModifierMappingSrc":0x700000045,"HIDKeyboardModifierMappingDst":0xC000000E9}]}'`
+- http://www.manpagez.com/man/1/hidutil/
+- https://developer.apple.com/library/content/technotes/tn2450/_index.html
+- https://opensource.apple.com/source/IOHIDFamily/IOHIDFamily-1035.41.2/IOHIDFamily/IOHIDUsageTables.h
+- https://opensource.apple.com/source/IOHIDFamily/IOHIDFamily-1035.41.2/IOHIDFamily/AppleHIDUsageTables.h
+- https://apple.stackexchange.com/questions/283252/how-do-i-remap-a-key-in-macos-sierra-e-g-right-alt-to-right-control
+- https://www.maven.de/2018/05/more_keyboards/
 
 ### Kubernetes
 - https://github.com/freach/kubernetes-security-best-practice
