@@ -5,6 +5,7 @@
 - https://github.com/cncf/landscape
 - https://kubernetes.io/
 - https://www.openstack.org/
+- https://blog.abevoelker.com/2018-01-18/why-im-switching-from-aws-to-gcp-for-new-personal-projects/
 
 ### Community
 - https://www.tiobe.com/tiobe-index/
