@@ -123,6 +123,14 @@
 ### gRPC
 - https://www.slideshare.net/VarunTalwar4/grpc-design-and-implementation
 
+### Health
+#### Diet
+- https://zenhabits.net/plants/
+- https://www.youtube.com/watch?v=30gEiweaAVQ
+- https://nutritionfacts.org/
+- https://www.lifestylemedicine.org/
+- http://plantbaseddocs.com
+
 ### History
 - https://steveblank.com/secret-history/
 - https://medium.com/startup-grind/steve-blanks-guide-to-the-real-silicon-valley-37278610026c#.acrokj9ca
