@@ -130,6 +130,7 @@
 - https://nutritionfacts.org/
 - https://www.lifestylemedicine.org/
 - http://plantbaseddocs.com
+- https://www.ncbi.nlm.nih.gov/pubmed/16571087
 
 ### History
 - https://steveblank.com/secret-history/
