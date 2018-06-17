@@ -131,6 +131,7 @@
 - https://www.lifestylemedicine.org/
 - http://plantbaseddocs.com
 - https://www.ncbi.nlm.nih.gov/pubmed/16571087
+- https://i.imgur.com/4nQpm7S.gifv
 
 ### History
 - https://steveblank.com/secret-history/
