@@ -149,6 +149,9 @@
 ### Interviewing
 - https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
 - https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
+- https://triplebyte.com/software-engineer-salary
+- https://drive.google.com/file/d/1nKxB5e7kPnNDJeDmZQgsp-jioPMi5CLd/view
+- https://github.com/jlevy/og-equity-compensation
 
 ### Keyboards
 - http://www.wasdkeyboards.com/
