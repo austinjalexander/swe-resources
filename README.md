@@ -33,7 +33,8 @@
 ### Debugging
 - https://github.com/devtools-html/debugger.html
 
-### Design Patterns
+### Design and Design Patterns
+- https://en.wikipedia.org/wiki/SOLID
 - https://sourcemaking.com/
 - https://refactoring.guru/design-patterns
 
