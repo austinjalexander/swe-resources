@@ -48,6 +48,10 @@
 ##### Testing
 - http://www.throwtheswitch.org/unity/
 
+#### C++
+- hhttp://www.cplusplus.com/
+- https://en.cppreference.com/w/
+
 #### JavaScript
 - https://prettier.io/
 - https://google.github.io/styleguide/jsguide.html
