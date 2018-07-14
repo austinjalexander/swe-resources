@@ -1,5 +1,8 @@
 # swe-resources
 
+### AI
+- https://deepmind.com/
+
 ### Cloud
 - https://www.cncf.io/
 - https://github.com/cncf/landscape
