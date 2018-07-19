@@ -180,6 +180,7 @@
 ### Learning
 - http://aosabook.org/en/index.html
 - https://github.com/danistefanovic/build-your-own-x
+- https://github.com/tpn/pdfs
 
 ### Licenses
 - https://choosealicense.com/
