@@ -211,6 +211,9 @@
 - https://www.datadoghq.com/blog/postgresql-rds-monitoring-datadog
 - https://www.datadoghq.com/blog/postgresql-vacuum-monitoring
 
+### NLP
+- http://www.tfidf.com/
+
 ### OCR
 - https://github.com/tesseract-ocr/tesseract
 
