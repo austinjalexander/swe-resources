@@ -34,6 +34,9 @@
 - http://tatiyants.com/pev/#/plans/new
 
 ### Debugging
+>Debuggers don't remove bugs. They only show them in slow motion." - Unknown
+(https://github.com/ardanlabs/gotraining/tree/master/topics/go)
+
 - https://github.com/devtools-html/debugger.html
 
 ### Design and Design Patterns
