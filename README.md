@@ -245,6 +245,9 @@
 - https://research.fb.com/publications/
 - https://research.fb.com/research-areas/
 
+### Redis
+- https://making.pusher.com/redis-pubsub-under-the-hood/
+
 ### Refactoring
 - https://refactoring.com/
 - https://refactoring.guru/refactoring
