@@ -210,10 +210,11 @@
 - [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
 - http://www.paulgraham.com/makersschedule.html
 
-### Methodology
+### Methodology / Philosophies
 - https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software
 - http://www.laputan.org/mud/
 - http://www.agilenutshell.com/
+- https://en.wikipedia.org/wiki/List_of_software_development_philosophies
 
 ### Microservices
 - https://www.nginx.com/blog/introduction-to-microservices/
