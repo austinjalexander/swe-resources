@@ -134,6 +134,9 @@
 ### Google Hangouts / Meet
 - `sudo killall VDCAssistant`
 
+### GraphQL
+- https://github.com/chentsulin/awesome-graphql
+
 ### gRPC
 - https://www.slideshare.net/VarunTalwar4/grpc-design-and-implementation
 - https://github.com/grpc-ecosystem/grpc-gateway
@@ -260,6 +263,8 @@
 ### REST
 - http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
 - http://jsonpatch.com/
+- http://stateless.co/hal_specification.html
+- https://en.wikipedia.org/wiki/HATEOAS
 
 ### RFC Examples
 - https://github.com/rust-lang/rfcs
@@ -280,6 +285,10 @@
 ### Site-Reliability Engineering
 - https://landing.google.com/sre/book.html
 - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre
+
+### SQL
+#### Learning
+- https://sqlbolt.com/
 
 ### SSL/TLS
 - https://letsencrypt.org/
