@@ -176,6 +176,7 @@
 - https://drive.google.com/file/d/1nKxB5e7kPnNDJeDmZQgsp-jioPMi5CLd/view
 - https://github.com/jlevy/og-equity-compensation
 - https://interviewing.io/
+- https://blog.doismellburning.co.uk/how-not-to-screw-up-hiring/
 
 ### IPFS
 - https://ipfs.io/
