@@ -32,6 +32,8 @@
 
 ### Databases
 - http://tatiyants.com/pev/#/plans/new
+#### SQL
+- https://sqlfum.pt/
 
 ### Debugging
 >Debuggers don't remove bugs. They only show them in slow motion." - Unknown
