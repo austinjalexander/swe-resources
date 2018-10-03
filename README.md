@@ -32,6 +32,7 @@
 
 ### Databases
 - http://tatiyants.com/pev/#/plans/new
+- https://github.com/rxin/db-readings/blob/master/README.md
 #### SQL
 - https://sqlfum.pt/
 
