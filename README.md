@@ -255,6 +255,10 @@
 ### Performance
 - https://jsperf.com/ ([example](https://jsperf.com/getelementbyid-vs-queryselector))
 
+### Programming Languages
+- https://www.tiobe.com/tiobe-index/
+- http://pypl.github.io/PYPL.html
+
 ### Quantum Computing
 - https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview
 
@@ -329,6 +333,9 @@
 
 ### Websockets
 - https://devcenter.heroku.com/articles/websocket-security
+
+### WWW
+- https://www.inrupt.com/
 
 ---
 
