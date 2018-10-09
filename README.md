@@ -88,6 +88,8 @@
 ### Databases
 #### MongoDB
 - https://robomongo.org/
+#### Postgres
+- https://www.braintreepayments.com/blog/safe-operations-for-high-volume-postgresql/
 
 ### DevOps
 - https://www.katacoda.com/
