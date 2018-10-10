@@ -301,6 +301,7 @@
 - https://assets.pentesterlab.com/jwt_security_cheatsheet/jwt_security_cheatsheet.pdf
 - http://www.sqreen.io/checklists/devops-security-checklist.html
 - https://haveibeenpwned.com/
+- http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
 
 ### Site-Reliability Engineering
 - https://landing.google.com/sre/book.html
