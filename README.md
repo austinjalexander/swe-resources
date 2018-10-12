@@ -205,6 +205,9 @@
 ### Kubernetes
 - https://github.com/freach/kubernetes-security-best-practice
 
+### Leveling Up
+- https://codewithoutrules.com/2018/10/10/beyond-senior-software-engineer/
+
 ### Learning
 - http://aosabook.org/en/index.html
 - https://github.com/danistefanovic/build-your-own-x
