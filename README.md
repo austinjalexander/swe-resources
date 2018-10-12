@@ -2,6 +2,7 @@
 
 ### AI
 - https://deepmind.com/
+- https://ai.google/research/
 
 ### Cloud
 - https://www.cncf.io/
