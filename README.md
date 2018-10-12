@@ -91,6 +91,7 @@
 - https://robomongo.org/
 #### Postgres
 - https://www.braintreepayments.com/blog/safe-operations-for-high-volume-postgresql/
+- http://tatiyants.com/pev/#/plans/new
 
 ### DevOps
 - https://www.katacoda.com/
