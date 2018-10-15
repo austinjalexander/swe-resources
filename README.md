@@ -28,6 +28,7 @@
 #### Fonts
 - https://css-tricks.com/hey-hey-font-display/
 - https://www.zachleat.com/web/comprehensive-webfonts/
+- https://rsms.me/inter/
 #### Grid
 - https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/
 
