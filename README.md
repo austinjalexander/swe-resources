@@ -223,6 +223,9 @@
 #### Applications
 - http://neuralrad.com:5000/
 
+### Mac
+- killall pboard
+
 ### Management
 - [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
 - http://www.paulgraham.com/makersschedule.html
