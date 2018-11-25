@@ -98,6 +98,9 @@
 - https://www.katacoda.com/
 - http://www.opsschool.org/en/latest/
 
+### Distributed/Remote Work
+- http://blairreeves.me/2018/11/09/dont-work-remotely
+
 ### Documentation
 - https://docusaurus.io/
 
@@ -298,6 +301,11 @@
 ### RFC Examples
 - https://github.com/rust-lang/rfcs
 - https://tools.ietf.org/html/rfc2549
+
+### Roles at Work
+- http://blairreeves.me/2018/10/16/whats-a-senior-product-managers-job/
+- https://jvns.ca/blog/senior-engineer/
+- https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 
 ### Runtimes
 #### Node
