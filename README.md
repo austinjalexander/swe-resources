@@ -266,6 +266,9 @@
 ### PDFs
 - https://github.com/RelaxedJS/ReLaXed
 
+### Platforms
+- https://plus.google.com/+RipRowan/posts/eVeouesvaVX
+
 ### Podcasts
 - https://github.com/rShetty/awesome-podcasts
 
