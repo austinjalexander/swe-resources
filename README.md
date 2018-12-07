@@ -179,6 +179,7 @@
 
 ### Images
 - https://unsplash.com/
+- https://www.keycdn.com/blog/image-metadata
 
 ### Interviewing
 - https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
