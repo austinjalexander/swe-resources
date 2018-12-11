@@ -168,6 +168,7 @@
 - https://i.imgur.com/4nQpm7S.gifv
 
 ### History
+- [The Mother of All Demos](https://www.youtube.com/watch?v=VScVgXM7lQQ&feature=youtu.be&list=PLCGFadV4FqU2yAqCzKaxnKKXgnJBUrKTE)
 - https://steveblank.com/secret-history/
 - https://medium.com/startup-grind/steve-blanks-guide-to-the-real-silicon-valley-37278610026c#.acrokj9ca
 #### Internet
