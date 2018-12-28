@@ -156,6 +156,13 @@
 - https://www.slideshare.net/VarunTalwar4/grpc-design-and-implementation
 - https://github.com/grpc-ecosystem/grpc-gateway
 - https://github.com/grpc-ecosystem/awesome-grpc/blob/master/readme.md
+#### Community
+- https://grpc.io/community/
+- https://github.com/grpc-ecosystem/awesome-grpc
+#### Why?
+- https://blog.bugsnag.com/grpc-and-microservices-architecture/
+- https://www.cncf.io/blog/2017/03/01/cloud-native-computing-foundation-host-grpc-google/
+- https://grpc.io/blog/principles
 
 ### Health
 #### Diet
