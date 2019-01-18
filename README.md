@@ -180,6 +180,8 @@
 - https://medium.com/startup-grind/steve-blanks-guide-to-the-real-silicon-valley-37278610026c#.acrokj9ca
 #### Internet
 - https://www.rand.org/about/history/baran.html
+#### Ports
+- https://www.grc.com/port_8080.htm
 #### Programming Languages
 - https://www.hillelwayne.com/post/equals-as-assignment/
 #### Udacity
