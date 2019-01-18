@@ -97,6 +97,7 @@
 ### DevOps
 - https://www.katacoda.com/
 - http://www.opsschool.org/en/latest/
+- http://devopsdictionary.com/wiki/Main_Page
 
 ### Distributed/Remote Work
 - http://blairreeves.me/2018/11/09/dont-work-remotely
