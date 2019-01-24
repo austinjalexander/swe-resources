@@ -222,6 +222,8 @@
 
 ### Kubernetes
 - https://github.com/freach/kubernetes-security-best-practice
+- https://srcco.de/posts/kubernetes-failure-stories.html
+- https://github.com/hjacobs/kubernetes-failure-stories
 
 ### Leveling Up
 - https://codewithoutrules.com/2018/10/10/beyond-senior-software-engineer/
