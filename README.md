@@ -461,6 +461,8 @@
 ### Servers
 - https://caddyserver.com/
 - https://ngrok.com/
+#### Config
+- https://nginxconfig.io/?0.php=false&0.proxy&0.root=false
 
 ### Serverless
 - https://serverless-stack.com
