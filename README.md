@@ -355,6 +355,7 @@
 
 ### Time
 - https://zachholman.com/talk/utc-is-enough-for-everyone-right
+- https://everytimezone.com/
 
 ### UI/UX
 - https://custom-elements-everywhere.com/
