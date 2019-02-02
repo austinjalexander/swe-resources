@@ -255,6 +255,7 @@
 - http://www.laputan.org/mud/
 - http://www.agilenutshell.com/
 - https://en.wikipedia.org/wiki/List_of_software_development_philosophies
+- https://www.infoq.com/news/2019/01/rearchitecture-system-success
 
 ### Microservices
 - https://www.nginx.com/blog/introduction-to-microservices/
