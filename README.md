@@ -151,6 +151,7 @@
 
 ### Google Hangouts / Meet
 - `sudo killall VDCAssistant`
+- `sudo killall coreaudiod`
 
 ### GraphQL
 - https://github.com/chentsulin/awesome-graphql
