@@ -49,6 +49,8 @@
 - https://en.wikipedia.org/wiki/SOLID
 - https://sourcemaking.com/
 - https://refactoring.guru/design-patterns
+#### Design Tools
+- https://github.com/LisaDziuba/Awesome-Design-Tools
 
 ### Development
 - https://github.com/LeCoupa/awesome-cheatsheets
