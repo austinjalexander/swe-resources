@@ -471,6 +471,7 @@
 - https://ngrok.com/
 #### Config
 - https://nginxconfig.io/?0.php=false&0.proxy&0.root=false
+- https://github.com/trimstray/nginx-quick-reference
 
 ### Serverless
 - https://serverless-stack.com
