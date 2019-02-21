@@ -465,6 +465,10 @@
 - https://chronicle.security/
 - https://www.sqreen.io/checklists/saas-cto-security-checklist
 - https://letsencrypt.org/
+- https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+
+### Self-Hosting
+- https://github.com/Kickball/awesome-selfhosted
 
 ### Servers
 - https://caddyserver.com/
