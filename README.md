@@ -253,6 +253,8 @@
 ### Management
 - [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
 - http://www.paulgraham.com/makersschedule.html
+- http://www.4-dsystems.com/
+- Humans will be most fulfilled by work defined as: "a series of non-routine tasks that require social intelligence, complex critical thinking, and creative problem solving". John Oliver summarized succintly what we've been saying more verbosely.
 
 ### Methodology / Philosophies
 - https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software
