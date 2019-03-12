@@ -361,6 +361,9 @@
 ### SSL/TLS
 - https://letsencrypt.org/
 
+### Systems
+- https://www.sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK)#About_the_SEBoK
+
 ### Testing
 - https://8thlight.com/blog/uncle-bob/2014/05/14/TheLittleMocker.html
 
