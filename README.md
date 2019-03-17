@@ -230,6 +230,9 @@
 - https://srcco.de/posts/kubernetes-failure-stories.html
 - https://github.com/hjacobs/kubernetes-failure-stories
 
+### Leadership
+- https://www.amazon.jobs/en/principles
+
 ### Leveling Up
 - https://codewithoutrules.com/2018/10/10/beyond-senior-software-engineer/
 
