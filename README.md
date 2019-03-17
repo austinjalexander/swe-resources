@@ -242,6 +242,9 @@
 ### Licenses
 - https://choosealicense.com/
 
+### Log / Logging
+- https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying#what-is-a-log
+
 ### Machine Learning
 - https://www.wandb.com/
 #### Applications
@@ -255,6 +258,7 @@
 - http://www.paulgraham.com/makersschedule.html
 - http://www.4-dsystems.com/
 - Humans will be most fulfilled by work defined as: "a series of non-routine tasks that require social intelligence, complex critical thinking, and creative problem solving". John Oliver summarized succintly what we've been saying more verbosely.
+- https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3
 
 ### Methodology / Philosophies
 - https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software
@@ -341,6 +345,10 @@
 #### Node
 - [Ryan Dahl: Original Node JS Presentation](https://www.youtube.com/watch?v=EeYvFl7li9E)
 
+### Safety
+- https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/
+- https://medium.com/@jpaulreed/the-737max-and-why-software-engineers-should-pay-attention-a041290994bd
+
 ### Security
 - https://www.owasp.org/index.php/Main_Page
 - https://www.schneier.com/
@@ -353,6 +361,11 @@
 ### Site-Reliability Engineering
 - https://landing.google.com/sre/book.html
 - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre
+
+### Specifications (and Roadmaps)
+- https://codeburst.io/on-writing-tech-specs-6404c9791159
+- https://goberoi.com/on-writing-product-specs-5ca697b992fd
+- https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c
 
 ### SQL
 #### Learning
