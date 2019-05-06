@@ -105,6 +105,7 @@
 
 ### Distributed/Remote Work
 - http://blairreeves.me/2018/11/09/dont-work-remotely
+- https://stripe.com/blog/remote-hub
 
 ### Documentation
 - https://docusaurus.io/
