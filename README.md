@@ -85,6 +85,8 @@
 #### Python
 - https://www.fullstackpython.com/
 - http://pythontesting.net/
+##### 3
+- https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/
 ##### Testing
 - https://hypothesis.works/
 
