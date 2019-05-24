@@ -364,6 +364,7 @@
 - https://haveibeenpwned.com/
 - http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
 - https://cybersentinel.tech/
+- https://krebsonsecurity.com/
 
 ### Site-Reliability Engineering
 - https://landing.google.com/sre/book.html
