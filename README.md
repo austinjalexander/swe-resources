@@ -153,6 +153,7 @@
 
 ### Git
 - `git branch | grep -v 'master' | xargs git branch -D`
+- https://ohshitgit.com/
 
 ### Google Hangouts / Meet
 - `sudo killall VDCAssistant`
