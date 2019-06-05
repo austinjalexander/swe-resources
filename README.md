@@ -36,6 +36,8 @@
 ### Databases
 - http://tatiyants.com/pev/#/plans/new
 - https://github.com/rxin/db-readings/blob/master/README.md
+#### DynamoDB
+- https://www.dynamodbguide.com/key-concepts
 #### SQL
 - https://sqlfum.pt/
 
