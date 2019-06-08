@@ -289,6 +289,7 @@
 
 ### Networking
 - https://tcpdump101.com/
+- https://haydenjames.io/linux-networking-commands-scripts/
 
 ### NLP
 - http://www.tfidf.com/
