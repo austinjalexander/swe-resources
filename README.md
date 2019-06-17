@@ -213,6 +213,7 @@
 - https://github.com/jlevy/og-equity-compensation
 - https://interviewing.io/
 - https://blog.doismellburning.co.uk/how-not-to-screw-up-hiring/
+- https://www.levels.fyi/
 
 ### IPFS
 - https://ipfs.io/
