@@ -10,6 +10,8 @@
 - https://kubernetes.io/
 - https://www.openstack.org/
 - https://blog.abevoelker.com/2018-01-18/why-im-switching-from-aws-to-gcp-for-new-personal-projects/
+#### AWS
+- https://www.awsgeek.com/pages/AWS-Periodic-Table.html
 
 ### Community
 - https://www.tiobe.com/tiobe-index/
@@ -101,6 +103,7 @@
 #### Postgres
 - https://www.braintreepayments.com/blog/safe-operations-for-high-volume-postgresql/
 - http://tatiyants.com/pev/#/plans/new
+- http://no.gd/cheatsheet.png
 
 ### DevOps
 - https://www.katacoda.com/
