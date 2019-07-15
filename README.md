@@ -40,6 +40,8 @@
 - https://github.com/rxin/db-readings/blob/master/README.md
 #### DynamoDB
 - https://www.dynamodbguide.com/key-concepts
+#### Postgres
+- https://devhints.io/postgresql-json
 #### SQL
 - https://sqlfum.pt/
 
