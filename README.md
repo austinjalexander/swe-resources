@@ -206,6 +206,9 @@
 #### Udacity
 - https://www.wired.com/1994/04/general-magic/
 
+### Humor
+- https://1x.engineer/
+
 ### Images
 - https://unsplash.com/
 - https://www.keycdn.com/blog/image-metadata
