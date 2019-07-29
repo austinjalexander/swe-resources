@@ -4,6 +4,9 @@
 - https://deepmind.com/
 - https://ai.google/research/
 
+### APIs
+- http://httpbin.org/
+
 ### Cloud
 - https://www.cncf.io/
 - https://github.com/cncf/landscape
