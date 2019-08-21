@@ -45,6 +45,7 @@
 - https://www.dynamodbguide.com/key-concepts
 #### Postgres
 - https://devhints.io/postgresql-json
+- https://explain.depesz.com
 #### SQL
 - https://sqlfum.pt/
 
