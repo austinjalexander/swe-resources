@@ -281,6 +281,7 @@
 - http://www.4-dsystems.com/
 - Humans will be most fulfilled by work defined as: "a series of non-routine tasks that require social intelligence, complex critical thinking, and creative problem solving". John Oliver summarized succintly what we've been saying more verbosely.
 - https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3
+- https://iridakos.com/how-to/2019/06/26/composing-better-emails.html
 
 ### Methodology / Philosophies
 - https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software
