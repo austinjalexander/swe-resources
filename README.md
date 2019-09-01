@@ -41,6 +41,7 @@
 ### Databases
 - http://tatiyants.com/pev/#/plans/new
 - https://github.com/rxin/db-readings/blob/master/README.md
+- https://dbdiagram.io/home
 #### DynamoDB
 - https://www.dynamodbguide.com/key-concepts
 #### Postgres
