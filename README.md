@@ -320,14 +320,17 @@
 ### PDFs
 - https://github.com/RelaxedJS/ReLaXed
 
+### Performance
+- https://jsperf.com/ ([example](https://jsperf.com/getelementbyid-vs-queryselector))
+
 ### Platforms
 - https://plus.google.com/+RipRowan/posts/eVeouesvaVX
 
 ### Podcasts
 - https://github.com/rShetty/awesome-podcasts
 
-### Performance
-- https://jsperf.com/ ([example](https://jsperf.com/getelementbyid-vs-queryselector))
+### Product
+- https://svpg.com/product-vs-feature-teams/
 
 ### Programming Languages
 - https://www.tiobe.com/tiobe-index/
