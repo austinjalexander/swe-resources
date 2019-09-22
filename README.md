@@ -111,6 +111,7 @@
 - https://www.braintreepayments.com/blog/safe-operations-for-high-volume-postgresql/
 - http://tatiyants.com/pev/#/plans/new
 - http://no.gd/cheatsheet.png
+- https://postgrescheatsheet.com
 
 ### DevOps
 - https://www.katacoda.com/
