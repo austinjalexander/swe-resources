@@ -113,6 +113,9 @@
 - http://no.gd/cheatsheet.png
 - https://postgrescheatsheet.com
 
+### Demos
+- https://headrush.typepad.com/creating_passionate_users/2006/12/dont_make_the_d.html
+
 ### DevOps
 - https://www.katacoda.com/
 - http://www.opsschool.org/en/latest/
@@ -293,6 +296,7 @@
 - https://en.wikipedia.org/wiki/List_of_software_development_philosophies
 - https://www.infoq.com/news/2019/01/rearchitecture-system-success
 - https://www.youtube.com/watch?v=qMsPXSMTpFI
+- https://12factor.net/
 
 ### Microservices
 - https://www.nginx.com/blog/introduction-to-microservices/
