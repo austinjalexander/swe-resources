@@ -401,6 +401,9 @@
 - https://cybersentinel.tech/
 - https://krebsonsecurity.com/
 
+### Sharing
+- https://carbon.now.sh
+
 ### Site-Reliability Engineering
 - https://landing.google.com/sre/book.html
 - https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre
