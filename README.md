@@ -326,6 +326,9 @@
 - https://www.contributor-covenant.org/
 - https://css-tricks.com/open-source-etiquette-guidebook/
 
+### Passwords
+- https://leahneukirchen.org/blog/archive/2019/10/ken-thompson-s-unix-password.html
+
 ### PDFs
 - https://github.com/RelaxedJS/ReLaXed
 
