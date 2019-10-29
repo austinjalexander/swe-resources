@@ -457,6 +457,9 @@
 ### Websockets
 - https://devcenter.heroku.com/articles/websocket-security
 
+### Work
+- https://doist.com/blog/asynchronous-communication/
+
 ### WWW
 - https://www.inrupt.com/
 
