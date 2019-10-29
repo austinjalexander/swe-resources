@@ -459,6 +459,7 @@
 
 ### Work
 - https://doist.com/blog/asynchronous-communication/
+- https://www.yegor256.com/2019/09/03/injection-of-guilt.html
 
 ### WWW
 - https://www.inrupt.com/
