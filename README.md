@@ -316,6 +316,7 @@
 ### Networking
 - https://tcpdump101.com/
 - https://haydenjames.io/linux-networking-commands-scripts/
+- https://dnsape.com/
 
 ### NLP
 - http://www.tfidf.com/
