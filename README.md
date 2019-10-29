@@ -134,6 +134,9 @@
 ### Drawing
 - https://tenonedesign.com/inklet.php
 
+### Emails
+- https://github.com/threeheartsdigital/email-marketing-regulations
+
 ### Flowcharts
 - https://mermaidjs.github.io/
 - https://github.com/knsv/mermaid
