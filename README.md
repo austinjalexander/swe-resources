@@ -211,6 +211,8 @@
 - https://steveblank.com/secret-history/
 - https://medium.com/startup-grind/steve-blanks-guide-to-the-real-silicon-valley-37278610026c#.acrokj9ca
 - ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+#### Augusta Ada King, Countess of Lovelace
+- https://iiif.lib.harvard.edu/manifests/view/drs:433014300%241i
 #### Cables
 - https://www.submarinecablemap.com/
 #### Internet
