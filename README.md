@@ -137,7 +137,7 @@
 ### Emails
 - https://github.com/threeheartsdigital/email-marketing-regulations
 
-### Floating Point
+### Floating-Point Math
 - https://0.30000000000000004.com/
 
 ### Flowcharts
