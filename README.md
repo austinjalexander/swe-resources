@@ -137,6 +137,9 @@
 ### Emails
 - https://github.com/threeheartsdigital/email-marketing-regulations
 
+### Floating Point
+- https://0.30000000000000004.com/
+
 ### Flowcharts
 - https://mermaidjs.github.io/
 - https://github.com/knsv/mermaid
