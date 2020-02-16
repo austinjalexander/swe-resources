@@ -65,6 +65,8 @@
 - https://refactoring.guru/design-patterns
 #### Design Tools
 - https://github.com/LisaDziuba/Awesome-Design-Tools
+#### JavaScript
+- https://github.com/ryanmcdermott/clean-code-javascript
 
 ### Development
 - https://github.com/LeCoupa/awesome-cheatsheets
