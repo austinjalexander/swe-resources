@@ -224,6 +224,8 @@
 - https://www.grc.com/port_8080.htm
 #### Programming Languages
 - https://www.hillelwayne.com/post/equals-as-assignment/
+#### Space
+- https://evilmartians.com/chronicles/what-i-learned-as-a-developer-from-accidents-in-space#lesson-two-report-issues-no-matter-what
 #### Udacity
 - https://www.wired.com/1994/04/general-magic/
 
