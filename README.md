@@ -331,6 +331,9 @@
 - https://dnsape.com/
 - https://www.internetexchangemap.com/
 
+#### Zero Trust
+- https://mattslifebytes.com/2020/02/29/remote-access-to-production-infrastructure-death-to-the-vpn/?hn=1
+
 ### NLP
 - http://www.tfidf.com/
 
