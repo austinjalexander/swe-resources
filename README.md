@@ -359,6 +359,9 @@
 ### Podcasts
 - https://github.com/rShetty/awesome-podcasts
 
+### Problem Solving
+- http://xyproblem.info/
+
 ### Product
 - https://svpg.com/product-vs-feature-teams/
 
