@@ -181,6 +181,7 @@
 ### Git
 - `git branch | grep -v 'master' | xargs git branch -D`
 - https://ohshitgit.com/
+- https://dhwthompson.com/2019/my-favourite-git-commit
 
 ### Google Hangouts / Meet
 - `sudo killall VDCAssistant`
