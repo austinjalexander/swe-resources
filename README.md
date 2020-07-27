@@ -307,7 +307,7 @@
 - https://iridakos.com/how-to/2019/06/26/composing-better-emails.html
 
 ### Methodology / Philosophies
-- https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software
+- ✅ https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software
 - http://www.laputan.org/mud/
 - http://www.agilenutshell.com/
 - https://en.wikipedia.org/wiki/List_of_software_development_philosophies
