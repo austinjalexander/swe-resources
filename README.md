@@ -1,8 +1,8 @@
 # swe-resources
 
 ### AI
-- https://deepmind.com/
-- https://ai.google/research/
+- ✅ https://deepmind.com/
+- ✅ https://ai.google/research/
 
 ### APIs
 - http://httpbin.org/
